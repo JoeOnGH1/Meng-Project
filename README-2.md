@@ -58,7 +58,7 @@ All notebooks were developed and run in Google Colab using a T4 GPU. Key depende
 
 ## Important: File Path Configuration
 
-> **Disclaimer:** All notebooks use Google Drive mount paths (e.g. `/content/drive/MyDrive/MEng Project/...`) that are specific to the original development environment. If you wish to run these notebooks, you will need to update all file paths to match your own environment, whether that is a local directory structure or your own Google Drive layout. A find-and-replace on the path prefix in each notebook is the quickest way to do this.
+> **Disclaimer:** All notebooks use Google Drive mount paths (e.g. `/content/drive/MyDrive/MEng Project/...`) that are specific to the original development environment. If you wish to run these notebooks, you will need to update all file paths to match your own environment, whether that is a local directory structure or your own Google Drive layout. A find-and-replace on the path prefix in each notebook is the quickest way to do this. Aditionally, API keys have been redacted, users will need to request ENTSO-E API keys in order to extract data. Do so by politely emailing transparency@entsoe.eu with an API access request.
 
 ---
 
